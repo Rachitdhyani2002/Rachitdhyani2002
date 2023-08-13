@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" width="900" height="200">
+<img src="https://media.tenor.com/mmdmFz28IEkAAAAC/hey-everyone-spiderman.gif" width="900" height="300">
 <h1 align="center">Hi 👋, I'm Rachit Dhyani</h1>
 <h3 align="center">Full Stack Java Developer || MERN Developer || Frontend Developer</h3>
 <img align ="right" alt="Coding" width="400" src="https://media.tenor.com/jkaTE60JNKsAAAAC/spiderman-angry.gif">
