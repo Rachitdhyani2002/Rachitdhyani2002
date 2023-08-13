@@ -1,14 +1,14 @@
 <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" width="900" height="200">
 <h1 align="center">Hi 👋, I'm Rachit Dhyani</h1>
 <h3 align="center">Full Stack Java Developer || MERN Developer || Frontend Developer</h3>
-<img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align ="right" alt="Coding" width="400" src="https://media.tenor.com/jkaTE60JNKsAAAAC/spiderman-angry.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitdhyani2002&label=Profile%20views&color=0e75b6&style=flat" alt="rachitdhyani2002" /> </p>
 
 - 💬 Ask me about **MERN, JAVA**
 
 - 📫 How to reach me **rachitdhyani2002@gmail.com**
 
-- ⚡ Fun fact **Sometimes I am Hilarious**
+- ⚡ Fun fact **I am Spiderman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
