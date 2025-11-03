@@ -17,9 +17,9 @@
 <br/>
 <h3>ACHIEVEMENTS</h3>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/rachitdhyani2002.png" alt="Your Image Badge" />
-  <a href="https://www.credly.com/badges/272cee6a-94c5-46c1-a542-b4ac31613553/linked_in_profile" ><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"/> </a>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/rachitdhyani2002.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/rachitdhyani2002.png" alt="Your Image Badge" width="250"/>
+  <a href="https://www.credly.com/badges/272cee6a-94c5-46c1-a542-b4ac31613553/linked_in_profile" ><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200" height="200"/> </a>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/rachitdhyani2002.png" alt="Your Image Badge" width="250"/>
 </p>
 
 
