@@ -47,6 +47,12 @@
 
 </p>
 <br/>
+<h3>PROJECTS</h3>
+<p>
+<ol><a href="">Project-Reports</a></ol>
+<ol><a href="">Python-Scripts</a></ol>
+</p>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitdhyani2002&show_icons=true&locale=en&layout=compact" alt="rachitdhyani2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitdhyani2002&show_icons=true&locale=en" alt="rachitdhyani2002" /></p>
