@@ -49,7 +49,7 @@
 <br/>
 <h3>PROJECTS</h3>
 <p>
-<ol><a href="">Project-Reports</a></ol>
+<ol><a href="https://github.com/Rachitdhyani2002/PortSwigger-writeups">Project-Reports</a></ol>
 <ol><a href="https://github.com/Rachitdhyani2002/Python-Scripts/tree/main">Python-Scripts</a></ol>
 </p>
 <br/>
